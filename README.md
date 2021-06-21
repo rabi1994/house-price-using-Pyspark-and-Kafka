@@ -1,11 +1,11 @@
 # house-price-using-Pyspark-and-Kafka
 ## house pricing using Pyspark and Kafka
 ## environment : Linux
-### recommendation : run preprocessing file first to see how the data work , all the lines in big_data.ipynb explained nut if you have any question feel free to ask
+### recommendation : run preprocessing file first to see how the data work , all the lines in big_data final file.ipynb explained nut if you have any question feel free to ask
 ### activation of pyspark :
 #### 1)open terminal 
 #### 2)write Pypark
-#### 3) open file big_data.ipynb
+#### 3) open file big_data final file.ipynb
 #### 4) run all cells by order 
 ### activation of Kafka:
 #### 1)open terminal 
